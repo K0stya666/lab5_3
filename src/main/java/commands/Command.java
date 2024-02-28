@@ -1,7 +1,5 @@
 package commands;
 
-import managers.CommandManager;
-
 /**
  * Абстрактная команда с именем и описанием
  */

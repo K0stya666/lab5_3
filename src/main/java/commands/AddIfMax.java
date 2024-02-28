@@ -1,8 +1,5 @@
 package commands;
 
-import exceptions.IncorrectInputInScriptException;
-import exceptions.InvalidFormException;
-import exceptions.WrongAmountOfElementsException;
 import managers.CollectionManager;
 import models.*;
 import utility.Console;
